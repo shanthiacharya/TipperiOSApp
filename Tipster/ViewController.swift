@@ -131,9 +131,9 @@ class ViewController: UIViewController {
                 
                 // self.firstView.frame = CGRectOffset(self.firstView.frame, 0,  0.7)
                 
-                self.billText.frame = CGRectMake(209, 153, 150, 80)
+                self.billText.frame = CGRectMake(209, 133, 150, 80)
                 
-                self.dollarsign.frame = CGRectMake(168, 153, 39, 82)
+                self.dollarsign.frame = CGRectMake(168, 133, 39, 82)
                 
                 
                 self.firstView.frame = CGRectMake(0, 323, 480, 568)
