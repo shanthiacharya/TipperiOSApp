@@ -9,10 +9,11 @@ Completed user stories:
 * [x]Required: User can change the tip percentage to 10%, 20% or 22% and view the tip and total
 * [x]Required: User can view the total amount split by the number of people 
 
+Optional  Added an app icon
+Optional  Added Launc screen
 
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
 
-Walkthrough of all user stories:
+Walkthrough of all user stories using LiceCap
 
 <img src="tipper6.gif" alt="Screen Demo" width="350" />
 
