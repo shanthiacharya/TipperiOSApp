@@ -14,4 +14,6 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 Walkthrough of all user stories:
 
+<img src="tipper6.gif" alt="Screen Demo" width="350" />
+
 
