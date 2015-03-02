@@ -1,10 +1,4 @@
-# TipperiOSApp
 
-<<<<<<< HEAD
-#TODO 
-
-
-=======
 This is an iPhone demo application to calculate the tip for a given dollar amount. 
 
 Time spent: 6 hours spent in total
@@ -20,5 +14,4 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 Walkthrough of all user stories:
 
-<img 
->>>>>>> 5e12baee3d3d0fbe4b15c69f6bc0afe318a54bec
+
