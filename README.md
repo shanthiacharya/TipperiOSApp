@@ -10,7 +10,8 @@ Completed user stories:
 * [x]Required: User can view the total amount split by the number of people 
 
 Optional  Added an app icon
-Optional  Added Launc screen
+
+Optional  Added Launch screen
 
 
 Walkthrough of all user stories using LiceCap
